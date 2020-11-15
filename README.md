@@ -20,3 +20,11 @@ SUT - SUT는 테스트 대상 시스템을 의미한다. 어떤 사람들은 CUT
 - 빨라야 한다.
 
 통합 테스트 - '통합 테스트(intergration testing)'는 두 개 이상의 독립적인 소프트웨어 모듈을 하나의 그룹으로 테스트하는 것을 의미한다.
+
+단위 테스트 <-> 통합 테스트
+
+
+#Etc
+
+프로젝트 설치 가이드 사이트
+https://www.kdata.or.kr/info/info_04_view.html?field=&keyword=&type=techreport&page=26&dbnum=181181&mode=detail&type=techreport
