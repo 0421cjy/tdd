@@ -35,3 +35,6 @@
 *.user
 Debug/
 .vs/
+
+# folders
+packages/
